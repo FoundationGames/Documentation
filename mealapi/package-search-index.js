@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.foundationgames.mealapi.api.v0"}];updateSearchResults();

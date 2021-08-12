@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"io.github.foundationgames.mealapi.api.v0","l":"FullnessProvider"},{"p":"io.github.foundationgames.mealapi.api.v0","l":"MealAPIInitializer"},{"p":"io.github.foundationgames.mealapi.api.v0","l":"MealItemRegistry"},{"p":"io.github.foundationgames.mealapi.api.v0","l":"PlayerFullnessUtil"}];updateSearchResults();
